@@ -292,3 +292,52 @@ padding-left: 10px;
     text-align: center;
     padding: 30px;
 }
+
+/* pricing page start */
+
+.navbar-toggler{
+    border: 1px solid white;
+    background-color: white;
+}
+.navbar{
+    margin-top: 15px;
+}
+.icon{
+    margin-top: 10px;
+}
+
+/* #### pricing section  */
+.pricing-pr{
+    padding-top: 30px;
+    background-color: #eee;
+}
+.cardpricing{
+    width:225px !important;
+    height: 450px;
+    margin: 20px;
+    border-radius: 10px;
+    padding: 27PX;
+}
+
+
+    .cardpricing h5,h6{
+            color: #1eb2a6;
+    }
+.price-btn{
+    background-color: white;
+    color: #1eb2a6;
+    margin-top: 20px;
+    border: 1px solid #1eb2a6;
+    width: 150px;
+}
+.freq{
+    background-color: #EEE;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.accordion .accordion-button:not(.collapsed){
+    background-color: #1eb2a6;
+}
+.accordion{
+    font-size: 18px;
+}
